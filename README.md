@@ -2,4 +2,4 @@
 5th Semester Mini Project
 
 # Under the Supervision: 
-Dr. krishna Pratap Singh
+Dr. Krishna Pratap Singh
