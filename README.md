@@ -4,7 +4,9 @@
 Indian Institute of Information Technology, Allahabad
 
 # Under the Supervision: 
-Dr. Krishna Pratap Singh
+Dr. Krishna Pratap Singh, Assistant Professor
 
-Upendra Pratap Singh, 
+
+Upendra Pratap Singh
+
 Daisy Monika Lal
