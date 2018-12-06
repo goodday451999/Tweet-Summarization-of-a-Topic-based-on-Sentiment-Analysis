@@ -1,5 +1,5 @@
 # Tweet-Summarization-of-a-Topic-based-on-Sentiment-Analysis
-5th Semester Mini Project
+5th Semester Mini Project 2018
 
 Indian Institute of Information Technology, Allahabad
 
