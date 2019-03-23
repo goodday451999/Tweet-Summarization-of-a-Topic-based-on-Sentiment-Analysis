@@ -2,7 +2,6 @@
 """
 Created on Wed Nov  7 11:59:22 2018
 
-@author: Rahul Chanderiya
 """
 
 # Importing the libraries
@@ -14,9 +13,6 @@ from tweepy import OAuthHandler
 import nltk
 import heapq
 import numpy as np
-
-
-
 
 # Text Summarization
 
@@ -77,15 +73,15 @@ def summarize(text, size):
 
 # Twitter Sentiment Analysis
 
-topic = "Thugs of Hindustan" 
+topic = "Statue of Unity" 
 num_of_tweets = 100
 summary_size = int(pow(num_of_tweets,0.5))
     
 # Initializing the keys
-consumer_key = 'yoIwFkjZGYDa49aO16XqSNqcN'
-consumer_secret = 'gl4LQOItV7Z1aFwNrlvaiKJ3t8o8h99blMIAmnmdHxYjzjRAxO' 
-access_token = '624310916-E7fDF2IE8P6bfY1oVFglASf6F8RnxMd3vgSXFqnZ'
-access_secret ='ID9JcoXHsDcKtvNcnmBGcCQhUlO0wmwAxBJ6LCesiUAas'
+consumer_key = '...'
+consumer_secret = '...' 
+access_token = '...'
+access_secret ='...'
 
 # Initializing the tokens
 auth = OAuthHandler(consumer_key, consumer_secret)
@@ -172,7 +168,3 @@ positive_summary = summarize(positive_text,summary_size)
 #print ("Summary : \n")
 negative_summary = summarize(negative_text,summary_size) 
 #print(negative_summary)
-
-
-
-
